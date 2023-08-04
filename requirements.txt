@@ -5,12 +5,13 @@ notebook
 numpy
 matplotlib
 seaborn
-python-box==6.0.2
+python-box
 pyYAML
 tdqm
-ensure==1.0.2
+ensure
 joblib
 types-PyYAML
 scipy
 Flask
 Flask-Cors
+-e .
